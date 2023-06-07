@@ -2,6 +2,16 @@
 
 ## Корнев Андрей, группа 1
 
+#### Hira
+
+Связь с H2A и где экспрессируется:
+
+https://www.researchgate.net/publication/356987324_HIRA_complex_presets_transcriptional_potential_through_coordinating_depositions_of_the_histone_variants_H33_and_H2AZ_on_the_poised_genes_in_mESCs
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9304598/
+
+https://www.nature.com/articles/s41467-021-24153-1
+
 #### Cсылка на колаб:
 
 https://colab.research.google.com/drive/1kFnwKZ62Y4QnQW6eqE9DCehA59AGhoqP?usp=sharing
