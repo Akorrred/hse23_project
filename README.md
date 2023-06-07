@@ -19,3 +19,20 @@ https://colab.research.google.com/drive/1kFnwKZ62Y4QnQW6eqE9DCehA59AGhoqP?usp=sh
 #### H4
 ![](https://github.com/Akorrred/hse23_project/blob/main/alignment/H4.png)
 
+## Таблички с E-value и -log(Evalue)
+
+#### E-value таблица
+![](https://github.com/Akorrred/hse23_project/blob/main/value/evalue.png)
+
+#### -log(Evalue) таблица
+![](https://github.com/Akorrred/hse23_project/blob/main/value/log_evalue.png)
+
+#### Тепловая карта созданная по табличке -log(E-value)
+
+![](https://github.com/Akorrred/hse23_project/blob/main/value/log_evalue_heatmap.png)
+
+
+
+
+
+
