@@ -39,6 +39,8 @@ https://colab.research.google.com/drive/1kFnwKZ62Y4QnQW6eqE9DCehA59AGhoqP?usp=sh
 
 #### Тепловая карта созданная по табличке -log(E-value)
 
+По тепловой карте можно понять, что впервые HIRA появился у инфузорий.
+
 ![](https://github.com/Akorrred/hse23_project/blob/main/value/log_evalue_heatmap.png)
 
 
