@@ -32,16 +32,16 @@ https://colab.research.google.com/drive/1kFnwKZ62Y4QnQW6eqE9DCehA59AGhoqP?usp=sh
 ## Таблички с E-value и -log(Evalue)
 
 #### E-value таблица
-![](https://github.com/Akorrred/hse23_project/blob/main/value/evalue.png)
+![](https://github.com/Akorrred/hse23_project/blob/main/values/evalue.png)
 
 #### -log(Evalue) таблица
-![](https://github.com/Akorrred/hse23_project/blob/main/value/log_evalue.png)
+![](https://github.com/Akorrred/hse23_project/blob/main/values/log_evalue.png)
 
 #### Тепловая карта созданная по табличке -log(E-value)
 
 По тепловой карте можно понять, что впервые HIRA появился у инфузорий.
 
-![](https://github.com/Akorrred/hse23_project/blob/main/value/log_evalue_heatmap.png)
+![](https://github.com/Akorrred/hse23_project/blob/main/values/log_evalue_heatmap.png)
 
 
 
